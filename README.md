@@ -29,7 +29,7 @@ int main(void) {
   "C", "C++", "x86-64 Assembly",                // C, C++, x86-64 Assembly,
   "Python", "Git", "Markdown"                   // Python, Git, Markdown,
   "HTML", "CSS", "Bash",                        // HTML, CSS, Bash,
-  "Shell", "Microsoft office tools"             // Shell, Microsoft office tools and more.
+  "Shell", "VHDL"                               // Shell, VHDL and more.
 };                                              // These are the tools and programming languages I am most proficient in.
 
   return EXIT_SUCCESS;
@@ -51,7 +51,7 @@ int main(void) {
         <li>C, C++, x86-64 Assembly,</li>
         <li>Python, Git, Markdown,</li>
         <li>HTML, CSS, Bash,</li>
-        <li>Shell, Microsoft office tools and more.</li>
+        <li>Shell, VHDL and more.</li>
         <li>These are the tools and programming languages I am most proficient in.</li>
       </ul>
   </ul>
