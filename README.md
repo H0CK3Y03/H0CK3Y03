@@ -8,7 +8,7 @@ I am currently a student of VUT FIT in Brno, Czechia. I am studying in the IT sp
 #include <stdbool.h>
 
 #define HOBBIES 5 // number of mentioned hobbies
-#define L_T_COUNT 11 // number of mentioned programming languages and tools I have experience in
+#define L_T_COUNT 12 // number of mentioned programming languages and tools I have experience in
 
 int main(void) {
   char *name = "Adam Veselý";                   // Hello! My name is Adam Veselý.
@@ -26,10 +26,10 @@ int main(void) {
                                                    all in which I have placed in the top 10% of participants.
   char *languages_tools[L_T_COUNT] =
 {                                               // I have experience with a variety of programming languages and tools, such as,
-  "C", "C++", "x86-64 Assembly",                // C, C++, x86-64 Assembly,
+  "C", "C++", "C#",                             // C, C++, C#,
   "Python", "Git", "Markdown"                   // Python, Git, Markdown,
   "HTML", "CSS", "Bash",                        // HTML, CSS, Bash,
-  "Shell", "VHDL"                               // Shell, VHDL and more.
+  "Shell", "VHDL", "x86-64 Assembly"            // Shell, VHDL, x86-64 Assembly, and more.
 };                                              // These are the tools and programming languages I am most proficient in.
 
   return EXIT_SUCCESS;
@@ -48,10 +48,10 @@ int main(void) {
     <li>I've participated in multiple programming competitions, all in which I have placed in the top 10% of participants.</li>
     <li>I have experience with a variety of programming languages and tools, such as:</li>
       <ul>
-        <li>C, C++, x86-64 Assembly,</li>
+        <li>C, C++,C#,</li>
         <li>Python, Git, Markdown,</li>
         <li>HTML, CSS, Bash,</li>
-        <li>Shell, VHDL and more.</li>
+        <li>Shell, VHDL,  x86-64 Assembly and more.</li>
         <li>These are the tools and programming languages I am most proficient in.</li>
       </ul>
   </ul>
