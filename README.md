@@ -48,7 +48,7 @@ int main(void) {
     <li>I've participated in multiple programming competitions, all in which I have placed in the top 10% of participants.</li>
     <li>I have experience with a variety of programming languages and tools, such as:</li>
       <ul>
-        <li>C, C++,C#,</li>
+        <li>C, C++, C#,</li>
         <li>Python, Git, Markdown,</li>
         <li>HTML, CSS, Bash,</li>
         <li>Shell, VHDL,  x86-64 Assembly and more.</li>
