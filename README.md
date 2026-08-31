@@ -1,5 +1,5 @@
 # Adam Veselý
-**`VUT FIT student | Software engineer intern at Thermo Fisher Scientific`**  
+**`VUT FIT student`**  
 
 I am currently a student of VUT FIT in Brno, Czechia. I am studying in the IT sphere. Here I publish my school and individual projects.
 ### About me
